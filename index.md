@@ -4,6 +4,8 @@ InstaHub ist ein soziales Netzwerk ähnlich Instagram, welches im  Unterricht zu
 
 Schüler sind in InstaHub nicht Nutzer, sondern selbst  Administratoren. Sie haben so vollen Zugriff auf alle Funktionen des  sozialen Netzwerks, die in echten Netzwerken verborgen sind. 
 
+
+
 Mit InstaHub können folgende Lernziele erreicht werden:
 
 * Datenbanken
