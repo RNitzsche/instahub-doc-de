@@ -75,6 +75,7 @@ _Erstellen_ Sie jeweils ein UPDATE-Kommando:
 
 ## DELETE - Datensätze löschen
 
+*Suboptimal*
 Um Datensätze zu löschen, gibt es den Befehl `DELETE`. In einer SQL-Referenz finden Sie folgende Beschreibung:
 
 ------
