@@ -181,7 +181,7 @@ In einem IT-Lexikon liest sich das dann so:
 
 > **Client-Server-Architektur** (engl.: *client-server architecture*) Kooperative Form der Informationsverarbeitung bei der sich ergänzende Softwarekomponenten meist (aber nicht zwangsläufig) auf unterschiedliche Rechner verteilt werden, die über ein Rechnernetz verbunden sind. Ein Client-Server-System ist eine einfache Form eines verteilten Systems, bei dem die Rollenverteilung zwischen dem Serverprogramm und Klientenprogramm statisch ist und meist eine 1:n-Beziehung darstellt. (Vgl. Hansen, S. 64)
 
-Beachten Sie: Client und Server sind im Sinne der Client-Server-Architektur *Softwarekomponenten* und keine *Hardware* (Geräte)!  Daher können Client und Server auch durchaus auf ein- und demselben Rechner laufen. Z. B. wird bei der Entwicklung von Websites gerne auf das Packet XAMP zurück gegriffen. Es stellt einen vollen Webserver zur Verfügung , der u.a. aus den folgenden Komponenten besteht:
+Beachten Sie: Client und Server sind im Sinne der Client-Server-Architektur *Softwarekomponenten* und keine *Hardware* (Geräte)!  Daher können Client und Server auch durchaus auf ein- und demselben Rechner laufen. Z. B. wird bei der Entwicklung von Websites gerne auf das Packet XAMPP zurück gegriffen. Es stellt einen vollen Webserver zur Verfügung , der u.a. aus den folgenden Komponenten besteht:
 
 + HTTP-Server 
 + Datenbankserver
